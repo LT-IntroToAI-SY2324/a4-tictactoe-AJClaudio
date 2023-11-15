@@ -15,3 +15,5 @@ i would add a database of tictactoe plays/moves that the computer has access to 
 3. If you add a computer player, explain (doesn't have to be super technical) how you might get the computer player to play the best move every time. *Note - I am not grading this for a correct answer, I just want to know your thoughts on how you might accomplish it.
 
 it could run a similation of what each move would do and determine the best move by whatever makes the oppent struggle the most and helps the computer win.
+
+finishedd
